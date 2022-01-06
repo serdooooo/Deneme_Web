@@ -1,0 +1,65 @@
+html{
+    scroll-behavior: smooth;
+}
+#ok img{
+    position: fixed;
+    right: 20px;
+    bottom: 138px;
+    width: 44px;
+    height: 44px;
+    
+}
+footer{
+    width: auto;
+    height: auto;
+    padding:16px;
+    background-color: rgba(0, 0, 0, 0.466);
+}
+#sitehak{
+    color: white;
+    font-size: 13px;
+    text-align: right;
+}
+h1{
+    background-color: lightcoral;
+}
+body{
+    height: 100%;
+    width: auto;
+    margin: 0%;
+    background-image: url(back.jpg);
+}
+
+#homeimg img{
+    width: 100%;
+    height: auto;
+}
+.div1{
+    height: 75%;
+    width: auto;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.466);
+}
+
+li {
+    
+    display:inline-block;
+}
+
+li a {
+    
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 18px 18px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color:rgb(153, 8, 8); 
+}
